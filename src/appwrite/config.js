@@ -106,7 +106,6 @@ export class Service {
       console.log("Apppwrite service :: getFilePreview :: error",error);
     }
   }
-
 }
 
 const service = new Service();
