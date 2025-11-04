@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lexical/react": "^0.38.2",
     "@reduxjs/toolkit": "^2.9.1",
     "@tailwindcss/vite": "^4.1.14",
     "@tinymce/tinymce-react": "^6.3.0",
     "appwrite": "^21.2.1",
     "html-react-parser": "^5.2.7",
+    "lexical": "^0.38.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hook-form": "^7.65.0",
